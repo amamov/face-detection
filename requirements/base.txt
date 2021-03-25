@@ -1,2 +1,5 @@
 django~=3.1.2
 pillow
+opencv-python~=4.5.1.48
+numpy
+pytz
