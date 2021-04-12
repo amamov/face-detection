@@ -5,7 +5,7 @@ import cv2
 
 def rewrite(path):
     img = cv2.imread(path, 1)
-    print("fuckfuck")
+
     if type(img) is np.ndarray:
         print(img.shape)
 
